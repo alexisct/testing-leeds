@@ -1,0 +1,10 @@
+'assert' is really useful, for example - asserting that an elastic constants matrix is positive definite before you run any more code is a really good way of identifying where the errors are!
+
+assert is best for when something should always pass and the user is not expected to see the error.
+
+assert is just an 'if' statement and a 'raise' statement grouped together.
+
+can also turn off assert statements if they cause the code to run slowly and only turn them on if you think there's an error.
+
+things worth checking - e.g., is the list a list of numbers, does the list contain at least one element?
+
