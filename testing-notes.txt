@@ -8,3 +8,4 @@ can also turn off assert statements if they cause the code to run slowly and onl
 
 things worth checking - e.g., is the list a list of numbers, does the list contain at least one element?
 
+use travis-ci.org for testing code in github repositories (sign in using github).
